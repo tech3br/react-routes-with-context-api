@@ -1,6 +1,7 @@
 ## TODOS
 [x] Adding routes with react-router-dom
-[x] Adding auth with context API 
+<br />
+[] Adding auth with context API 
 
 
 # Getting Started with Create React App
